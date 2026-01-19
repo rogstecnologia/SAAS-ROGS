@@ -1,0 +1,8 @@
+{
+  "name": "ROGS AI Autônoma",
+  "description": "Sistema de inteligência artificial operacional para ROGS Tecnologia e Segurança, gerenciando prospecção, atendimento e análise técnica.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
